@@ -69,5 +69,5 @@ This project is open-source under the MIT License.
 
 ## Contact
 For any questions or feedback, please contact:
-- Nathaniel Trief: [email@example.com](mailto:email@example.com)
-- Ethan Shipman: [email@example.com](mailto:email@example.com)
+- Nathaniel Trief: [ntrief@icloud.com]
+- Ethan Shipman: [email@example.com]
